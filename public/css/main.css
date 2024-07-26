@@ -1,0 +1,32 @@
+.text-yfk {
+  color: #ffe200;
+}
+
+.btn-yfk {
+  color: white;
+  background-color: #ffe200;
+}
+
+.bg-yfk {
+  background-color: #ffc3ba;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.fs-48 {
+  font-size: 48px;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.p-100 {
+  padding: 175px 50px 100px 50px;
+}
+
+.br-20 {
+  border-radius: 20px;
+}
